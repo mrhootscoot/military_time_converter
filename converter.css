@@ -1,0 +1,21 @@
+.double-arrow{
+font-size: 26px;
+    color: #fff;
+    padding: 0px 10px;
+}
+.miltimedropmenu {
+    text-align: center;
+    background: #3a7293;
+    padding: 20px 0;
+}
+select#standard-time, select#military_time_tool {
+    background: #e3e3e3;
+    color: #222222;
+    text-align: center;
+}
+
+@media screen and (max-width: 830px){
+span.double-arrow {
+    display: block;
+}
+}
